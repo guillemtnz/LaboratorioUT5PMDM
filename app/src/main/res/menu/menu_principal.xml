@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Submenú -->
+    <item
+        android:id="@+id/opc_mision"
+        android:title="@string/menu_mision"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/opc_abandonar"
+                android:title="@string/menu_abandonar" />
+            <item
+                android:id="@+id/opc_reiniciar"
+                android:title="@string/menu_reiniciar" />
+        </menu>
+    </item>
+</menu>

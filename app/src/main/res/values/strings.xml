@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LABUT5</string>
+    <string name="menu_mision">Misión</string>
+    <string name="menu_abandonar">Abandonar Misión</string>
+    <string name="menu_reiniciar">Reiniciar Ruta</string>
+    <string name="ctx_inspeccionar">Inspeccionar Terreno</string>
+    <string name="btn_marcha">Ritmo de la marcha</string>
+    <string name="pop_acelerar">Acelerar el Paso</string>
+    <string name="pop_acampar">Montar Campamento</string>
+    <string name="toast_reiniciar">Ruta reiniciada</string>
+    <string name="toast_acelerar">¡La marcha se acelera!</string>
+    <string name="toast_acampar">Los viajeros montan el campamento</string>
+    <string name="peligro_label">Peligrosidad: %1$s</string>
+</resources>
